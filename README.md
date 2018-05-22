@@ -1,4 +1,6 @@
 # Demand
+- better accountability from your elected representitives
+
 Australians get to vote once every three years. How do we know the person we voted for continues to represent our interests after they are elected?
 
 Politicians have little incentive to follow the wishes of their electorate between elections. They often say one thing to get elected and behave differently once in office.
@@ -17,5 +19,3 @@ Demand makes politics transparent and accountable by including citizens in the p
 
 
 Demand is thorough catalogue of each MP's voting history. Future iterations of the platform will show politicians' financial interests, employment history, business connections and more - in an easy to access format.
-
-Demand better accountability from your elected representitives!
