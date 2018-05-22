@@ -17,6 +17,6 @@ Demand makes politics transparent and accountable by including citizens in the p
 
 - MPs voting histories are compared to poll results for their region and state
 
-The best part about Demand is that MP's don't need to opt in to the platform, we do it all without them using publicly available information
+The best part about Demand is that MP's don't need to opt in to the platform, we do it all using publicly available information
 
 Demand is thorough catalogue of each MP's voting history. Future iterations of the platform will show politicians' financial interests, employment history, business connections and more in an easy to access format.
